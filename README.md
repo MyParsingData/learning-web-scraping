@@ -64,7 +64,7 @@ Nothing yet here.
 
 ### TLS
 
-- [High Performance Browser Networking / Transport Layer Security (TLS)1](https://hpbn.co/transport-layer-security-tls/)
+- [High Performance Browser Networking / Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
 
 ### WebSocket
 
