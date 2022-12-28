@@ -12,6 +12,8 @@
   - [HTTP](#http)
   - [DNS](#dns)
   - [TCP](#tcp)
+  - [TLS](#tls)
+  - [WebSocket](#websocket)
   - [Concurrency](#concurrency)
 
 ## About the List
@@ -62,11 +64,11 @@ Nothing yet here.
 
 ### TLS
 
-- [High Performance Browser Networking / Transport Layer Security (TLS)1]([https://hpbn.co/building-blocks-of-tcp/](https://hpbn.co/transport-layer-security-tls/))
+- [High Performance Browser Networking / Transport Layer Security (TLS)1](https://hpbn.co/transport-layer-security-tls/)
 
 ### WebSocket
 
-- [High Performance Browser Networking / WebSocket]([https://hpbn.co/building-blocks-of-tcp/](https://hpbn.co/websocket/)1)
+- [High Performance Browser Networking / WebSocket](https://hpbn.co/websocket/)
 
 ### Concurrency
 
