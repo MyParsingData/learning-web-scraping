@@ -22,7 +22,7 @@ This is a list of articles and books teaching web scraping.
 
 ### Base Things
 
-To know base things is more important thatn to know particular tools or implementations.
+To know base things is more important than to know particular tools or implementations.
 
 It is important to know HTTP, TCP, TLS, DNS, HTML, XML, XPath, CSS, DOM, proxying network requests, etc, etc. You get idea.
 
