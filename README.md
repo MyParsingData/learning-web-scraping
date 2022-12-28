@@ -24,7 +24,7 @@ This is a list of articles and books teaching web scraping.
 
 To know base things is more important than to know particular tools or implementations.
 
-It is important to know HTTP, TCP, TLS, DNS, HTML, XML, XPath, CSS, DOM, proxying network requests.
+It is important to know what is HTTP, TCP, TLS, DNS, HTML, XML, XPath, CSS, DOM, proxying network requests.
 
 It is LESS important to know how to build crawler with SuperScrapingFramework or what function of PowerfulHTMLParsingLibrary allows you to extract text from selected element of HTML DOM tree. These things are very specific. You do not have to know how to operate with every scraping framework or HTML parsing package in the world. If you know base things it just a matter of short time to get knowledge about how to operate base things with a particular programming package.
 
