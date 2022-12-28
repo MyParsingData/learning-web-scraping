@@ -16,7 +16,7 @@ It is LESS important to know how to build crawler with SuperScrapingFramework or
 
 ## How to Contribute
 
-You may submit issue with aritcle or book you want to add. I will read article or take a look at cover picture of the book and will decide is it worth to add to the list or not.
+You may submit issue with aritcle or book you want to add. I will read article or take a look at animals on a cover picture of the book and will decide is it worth to add to the list or not.
 
 ## Topics
 
