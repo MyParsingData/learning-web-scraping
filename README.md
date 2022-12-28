@@ -22,6 +22,12 @@ You may submit issue with aritcle or book you want to add. I will read article o
 
 ### HTML
 
+Nothing yet here.
+
 ### HTTP
 
+Nothing yet here.
+
 ### DNS
+
+Nothing yet here.
