@@ -49,7 +49,8 @@ Nothing yet here.
 
 ### HTTP
 
-Nothing yet here.
+- [High Performance Browser Networking / HTTP/1.X](https://hpbn.co/http1x/)
+- [High Performance Browser Networking / HTTP/2](https://hpbn.co/http2/)
 
 ### DNS
 
@@ -57,7 +58,15 @@ Nothing yet here.
 
 ### TCP
 
-Nothing yet here.
+- [High Performance Browser Networking / Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+
+### TLS
+
+- [High Performance Browser Networking / Transport Layer Security (TLS)1]([https://hpbn.co/building-blocks-of-tcp/](https://hpbn.co/transport-layer-security-tls/))
+
+### WebSocket
+
+- [High Performance Browser Networking / WebSocket]([https://hpbn.co/building-blocks-of-tcp/](https://hpbn.co/websocket/)1)
 
 ### Concurrency
 
