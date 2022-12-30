@@ -16,6 +16,8 @@
   - [WebSocket](#websocket)
   - [Concurrency](#concurrency)
   - [Text Encoding](#text-encoding)
+  - [URL](#url)
+  - [XMLHttpRequest](#xmlhttprequest)
 
 ## About the List
 
@@ -67,6 +69,7 @@ Nothing yet here.
 ### WebSocket
 
 - [High Performance Browser Networking / WebSocket](https://hpbn.co/websocket/)
+- [WHATWG Websocket](https://websockets.spec.whatwg.org/)
 
 ### Concurrency
 
@@ -75,3 +78,11 @@ Nothing yet here.
 ### Text Encoding
 
 - [WHATWG Encoding](https://encoding.spec.whatwg.org/)
+
+### URL
+
+- [WHATWG URL](https://url.spec.whatwg.org/)
+
+### XMLHttpRequest
+
+- [WHATWG XMLHttpRequest](https://xhr.spec.whatwg.org/)
