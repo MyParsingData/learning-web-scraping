@@ -15,6 +15,7 @@
   - [TLS](#tls)
   - [WebSocket](#websocket)
   - [Concurrency](#concurrency)
+  - [Text Encoding](#text-encoding)
 
 ## About the List
 
@@ -70,3 +71,7 @@ Nothing yet here.
 ### Concurrency
 
 Nothing yet here.
+
+### Text Encoding
+
+- [WHATWG Encoding](https://encoding.spec.whatwg.org/)
