@@ -47,7 +47,7 @@ You may submit a new issue with an article or book you want to add. I will read 
 
 ### HTML
 
-- [WHATWG HTML Standard](https://html.spec.whatwg.org/multipage/)
+- [WHATWG / HTML](https://html.spec.whatwg.org/multipage/)
 
 ### HTTP
 
@@ -69,7 +69,7 @@ Nothing yet here.
 ### WebSocket
 
 - [High Performance Browser Networking / WebSocket](https://hpbn.co/websocket/)
-- [WHATWG Websocket](https://websockets.spec.whatwg.org/)
+- [WHATWG / Websocket](https://websockets.spec.whatwg.org/)
 
 ### Concurrency
 
@@ -77,12 +77,13 @@ Nothing yet here.
 
 ### Text Encoding
 
-- [WHATWG Encoding](https://encoding.spec.whatwg.org/)
+- [WHATWG / Encoding](https://encoding.spec.whatwg.org/)
 
 ### URL
 
-- [WHATWG URL](https://url.spec.whatwg.org/)
+- [WHATWG / URL](https://url.spec.whatwg.org/)
 
 ### XMLHttpRequest
 
-- [WHATWG XMLHttpRequest](https://xhr.spec.whatwg.org/)
+- [WHATWG / XMLHttpRequest](https://xhr.spec.whatwg.org/)
+- [High Performance Browser Networking / XMLHttpRequest](https://hpbn.co/xmlhttprequest/)
