@@ -7,7 +7,7 @@
   - [Information Availability](#information-availability)
   - [Information Granularity](#information-granularity)
   - [How to Contribute](#how-to-contribute)
-- [Learning Web Scraping Topics](#learning-web-scraping-topics)
+- [Web Scraping Articles and Topics](#web-scraping-articles-and-topics)
   - [HTML](#html)
   - [HTTP](#http)
   - [DNS](#dns)
@@ -43,7 +43,7 @@ If a book contains a number of topics, it makes sense to refer to particular top
 
 You may submit a new issue with an article or book you want to add. I will read the article or take a look at animals on a cover picture of the book and will decide is it worth to be included in the list.
 
-## Learning Web Scraping Topics
+## Web Scraping Articles and Topics
 
 ### HTML
 
