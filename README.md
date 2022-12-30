@@ -19,6 +19,7 @@
   - [URL](#url)
   - [XMLHttpRequest](#xmlhttprequest)
   - [Security](#security)
+  - [IP Address](#ip-address)
 
 ## About the List
 
@@ -92,3 +93,7 @@ Nothing yet here.
 ### Security
 
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/)
+
+### IP Address
+
+- [Understanding IP Addressing](http://pages.di.unipi.it/ricci/501302.pdf)
