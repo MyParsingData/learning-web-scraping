@@ -55,6 +55,7 @@ You may submit a new issue with an article or book you want to add. I will read 
 
 - [High Performance Browser Networking / HTTP/1.X](https://hpbn.co/http1x/)
 - [High Performance Browser Networking / HTTP/2](https://hpbn.co/http2/)
+- [HTTP Working Group HTTP Specs](https://httpwg.org/specs/)
 
 ### DNS
 
