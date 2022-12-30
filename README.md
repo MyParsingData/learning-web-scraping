@@ -74,7 +74,7 @@ Nothing yet here.
 
 ### Concurrency
 
-Nothing yet here.
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 
 ### Text Encoding
 
