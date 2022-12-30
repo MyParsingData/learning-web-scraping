@@ -18,6 +18,7 @@
   - [Text Encoding](#text-encoding)
   - [URL](#url)
   - [XMLHttpRequest](#xmlhttprequest)
+  - [Security](#security)
 
 ## About the List
 
@@ -87,3 +88,7 @@ Nothing yet here.
 
 - [WHATWG / XMLHttpRequest](https://xhr.spec.whatwg.org/)
 - [High Performance Browser Networking / XMLHttpRequest](https://hpbn.co/xmlhttprequest/)
+
+### Security
+
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/)
