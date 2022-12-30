@@ -44,7 +44,7 @@ You may submit a new issue with an article or book you want to add. I will read 
 
 ### HTML
 
-Nothing yet here.
+- [WHATWG HTML Standard](https://html.spec.whatwg.org/multipage/)
 
 ### HTTP
 
