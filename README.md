@@ -20,6 +20,7 @@
   - [XMLHttpRequest](#xmlhttprequest)
   - [Security](#security)
   - [IP Address](#ip-address)
+  - [Probablistic data structures](#probablistic-data-structures)
 
 ## About the List
 
@@ -98,3 +99,7 @@ Nothing yet here.
 ### IP Address
 
 - [Understanding IP Addressing](http://pages.di.unipi.it/ricci/501302.pdf)
+
+### Probablistic data structures
+
+- [Probabilistic Data Structures for Web Analytics and Data Mining](https://dirtysalt.github.io/html/probabilistic-data-structures-for-web-analytics-and-data-mining.html)
